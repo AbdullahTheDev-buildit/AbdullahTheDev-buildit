@@ -41,7 +41,7 @@ I enjoy creating impactful projects and continuously learning to expand my skill
 ### 🌐 Connect with Me
 
 - [LinkedIn](#www.linkedin.com/in/abdullah-mohd-649640214)
-- [Twitter](#https://x.com/mrah41443)
+- [Twitter](#www.x.com/mrah41443)
 - [Email](sahebabdullah7860@gmail.com)
 
 ---
