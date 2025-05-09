@@ -26,10 +26,12 @@
 **Backend & Database:**  
 `Node.js` | `Express.js` | `Firebase` | `MongoDB` | `MySQL`
 
+** App Development:**  
+`react Native` | `expo` | `supabase` 
+
 **Tools & Platforms:**  
 `Git & GitHub` | `VS Code` | `Postman` | `Linux (Ubuntu)` | `Render` | `Vercel`
-**App development**
-`React Native` | `expo` | `supabase`
+
 ---
 
 ### 📌 Featured Projects
