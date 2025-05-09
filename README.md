@@ -50,9 +50,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrahxd&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTheDev-buildit&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahxd&theme=github-dark" alt="Abdullah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTheDev-buildit&theme=github-dark" alt="Abdullah's GitHub Streak" />
 </p>
 
 ### 🌐 Connect with Me
