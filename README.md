@@ -46,6 +46,11 @@
   `Express.js` • `MongoDB` • `Socket.io`
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https:/AbdullahTheDev-buildit/profile-counter.glitch.me//count.svg" />
+</p>
 
 ### 📊 GitHub Stats
 
