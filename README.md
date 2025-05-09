@@ -49,7 +49,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https:/AbdullahTheDev-buildit/profile-counter.glitch.me//count.svg" />
+  <img src="https://profile-counter.glitch.me/AbdullahTheDev-buildit/count.svg" />
 </p>
 
 ### 📊 GitHub Stats
