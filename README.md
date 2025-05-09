@@ -28,7 +28,8 @@
 
 **Tools & Platforms:**  
 `Git & GitHub` | `VS Code` | `Postman` | `Linux (Ubuntu)` | `Render` | `Vercel`
-
+**App development**
+`React Native` | `expo` | `supabase`
 ---
 
 ### 📌 Featured Projects
@@ -61,7 +62,6 @@
 ---
 
 ### 🤝 Open to Collaborations
-
-I'm always open to collaborating on **web development projects**, **ML/AI applications**, or **data science problems**. If you're working on something exciting or just want to connect, feel free to reach out!
+I'm always open to collaborating on **web development projects** & **App development projects**. If you're working on something exciting or just want to connect, feel free to reach out!
 
 ---
