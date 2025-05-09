@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTheDev-buildit&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTheDev-buildit&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" height="180em" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTheDev-buildit&theme=github-dark" alt="Abdullah's GitHub Streak" height="180em"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTheDev-buildit&layout=compact&theme=tokyonight" height="180em"/>
