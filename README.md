@@ -39,10 +39,10 @@
 - 🔐 **TrustEDU** — An EdTech platform to verify learning credentials (MVP stage)  
   `Next.js` • `Firebase` • `Tailwind CSS`
 
-- 🏫 **College Admission Inquiry App** — Helps parents/students connect with the college team  
+- 🏫 **College Admission Inquiry App (for my colllege) ** — Helps parents/students connect with the college team given by college. 
   `Flutter` • `Firebase` • `Cloud Firestore`
 
-- ⚙️ **Bug Buster** — A live competitive coding platform with leaderboard  
+- ⚙️ **Bug Buster** — A live competitive coding platform with leaderboard and rules with red light and green light
   `Express.js` • `MongoDB` • `Socket.io`
 
 ---
