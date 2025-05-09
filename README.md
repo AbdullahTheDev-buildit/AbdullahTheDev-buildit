@@ -1,42 +1,56 @@
 
-# 👋 Hi, I'm Abdullah Mohd!
-
-### 🚀 Web Developer | Aspiring Data Scientist | AI & ML Enthusiast
-
-I'm a 3rd-year computer science student passionate about exploring the intersections of **web development**, **machine learning**, **AI**, and **data science**. Currently, I'm building **TrustEDU**, a startup backed by Microsoft Founders Hub, focused on helping students find verified, high-quality learning resources.
-
-I enjoy creating impactful projects and continuously learning to expand my skill set. I'm here to make a positive contribution to the open-source community and improve my skills along the way.
+<h1 align="center">Hi, I'm Mohd Abdullah 👋</h1>
+<h3 align="center">Engineering Student | Full Stack Web Developer | Tech Club Leader</h3>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+- 🎓 Engineering undergraduate (Graduating in 2026)
+- 🚀 Founder & President of **TekNiva**, a tech innovation club
+- 🧠 Passionate about **building real-world products**, hackathons & team collaboration
+- 🛠️ Focused on **Full Stack Web Development** using **React**, **Next.js**, and **Express**
+- 🌐 Campus Lead at **Edventure Park** — driving student innovation
+- 💡 Building **TrustEDU**, an EdTech MVP backed by **Microsoft Founders Hub**
 
 ---
 
-### 🌱 Currently Learning
+### 🧰 Tech Stack
 
-- **React** for dynamic and scalable web applications.
-- **Data Science** foundations with a focus on analytics and machine learning.
-- **Open Source Contribution** to improve my skills and collaborate on impactful projects.
+**Languages:**  
+`JavaScript` | `TypeScript` | `C++` | `Java` | `HTML` | `CSS`
+
+**Frontend:**  
+`React.js` | `Next.js` | `Tailwind CSS` | `Bootstrap` | `Figma` (UI/UX Design)
+
+**Backend & Database:**  
+`Node.js` | `Express.js` | `Firebase` | `MongoDB` | `MySQL`
+
+**Tools & Platforms:**  
+`Git & GitHub` | `VS Code` | `Postman` | `Linux (Ubuntu)` | `Render` | `Vercel`
 
 ---
 
-### 💡 Projects
+### 📌 Featured Projects
 
-- **TrustEDU**: A platform to help students find trusted learning resources, powered by a rating system to highlight the best courses.
-- **QrGen**: A basic qr generation website.
+- 🔐 **TrustEDU** — An EdTech platform to verify learning credentials (MVP stage)  
+  `Next.js` • `Firebase` • `Tailwind CSS`
+
+- 🏫 **College Admission Inquiry App** — Helps parents/students connect with the college team  
+  `Flutter` • `Firebase` • `Cloud Firestore`
+
+- ⚙️ **Bug Buster** — A live competitive coding platform with leaderboard  
+  `Express.js` • `MongoDB` • `Socket.io`
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrahxd&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahxd&theme=github-dark" alt="Abdullah's GitHub Streak" />
+</p>
 
 ### 🌐 Connect with Me
 
