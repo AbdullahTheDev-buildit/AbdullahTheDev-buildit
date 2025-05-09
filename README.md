@@ -53,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTheDev-buildit&show_icons=true&theme=github_dark" alt="Abdullah's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTheDev-buildit&theme=github-dark" alt="Abdullah's GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTheDev-buildit&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ### 🌐 Connect with Me
