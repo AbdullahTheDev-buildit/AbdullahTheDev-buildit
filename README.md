@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi, I'm Mohd Abdullah 👋</h1>
-<h3 align="center">Engineering Student | Full Stack Web Developer | Tech Club Leader</h3>
+<h3 align="center">Engineering Student | Full Stack Developer </h3>
 
----
+
 
 ### 👨‍💻 About Me
 
 - 🎓 Engineering undergraduate (Graduating in 2026)
 - 🚀 Founder & President of **TekNiva**, a tech innovation club
 - 🧠 Passionate about **building real-world products**, hackathons & team collaboration
-- 🛠️ Focused on **Full Stack Web Development** using **React**, **Next.js**, and **Express**
+- 🛠️ Focused on **Full Stack Development** using **React**, **Next.js**, and **Express**
 - 🌐 Campus Lead at **Edventure Park** — driving student innovation
 - 💡 Building **TrustEDU**, an EdTech MVP backed by **Microsoft Founders Hub**
 
