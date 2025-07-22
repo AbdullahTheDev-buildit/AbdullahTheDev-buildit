@@ -45,13 +45,6 @@
 - ⚙️ **Bug Buster** — A live competitive coding platform with leaderboard and rules with red light and green light
   `Express.js` • `MongoDB` • `Socket.io`
 
----
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AbdullahTheDev-buildit/count.svg" />
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
