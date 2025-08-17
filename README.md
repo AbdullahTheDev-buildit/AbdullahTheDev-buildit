@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi, I'm Mohd Abdullah 👋</h1>
-<h3 align="center">Engineering Student | Full Stack Developer</h3>
-"www.abdullahmohd.tech"
-
-
+<h3 align="center">Engineering Student | Full Stack Developer</h3> "www.abdullahmohd.tech"
 
 
 ### 👨‍💻 About Me
