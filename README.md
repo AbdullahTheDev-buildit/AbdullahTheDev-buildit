@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Mohd Abdullah 👋</h1>
 <h3 align="center">Engineering Student | Full Stack Developer</h3>
-"abdullahmohd.tech"
+"www.abdullahmohd.tech"
 
 
 
