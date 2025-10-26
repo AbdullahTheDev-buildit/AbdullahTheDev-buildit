@@ -10,7 +10,6 @@
 - 🧠 Passionate about **building real-world products**, hackathons & team collaboration
 - 🛠️ Focused on **Full Stack Development** using **React**, **Next.js**, and **Express**
 - 🌐 Campus Lead at **Edventure Park** — driving student innovation
-- 💡 Building **TrustEDU**, an EdTech MVP backed by **Microsoft Founders Hub**
 
 ---
 
