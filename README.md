@@ -74,7 +74,7 @@ $ cat toolchain.json | jq .
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username='AbdullahTheDev-buildit'&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165em" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahTheDev-buildit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165em" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTheDev-buildit&layout=compact&theme=tokyonight&hide_border=true" height="165em" alt="Top Languages" />
 
 </div>
