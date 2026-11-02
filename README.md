@@ -15,9 +15,9 @@
 ### 👨‍💻 Executive Summary
 
 - 💼 **Technical Lead & Business Manager** at **Zamm’s Closet** — architecting and shipping in-house ERP platforms, audit pipelines, and automating operations while managing P&L.
-- 🎓 **B.Tech in Computer Science & Engineering (Data Science)** — Global Institute of Engineering & Technology (Graduating 2026).
+- 🎓 **B.Tech in Computer Science & Engineering (Data Science)** — Global Institute of Engineering & Technology (Graduated).
 - 🚀 **Founder & President of TekNiva** — scaled a 100+ member engineering club; organized hackathons, hands-on ML workshops, and build sprints.
-- 🌐 **Campus Lead at EdVenture Park** (Top 5 Campus Lead) — mentoring student technical teams from napkin sketches to deployed prototypes.
+- 🌐 **Campus Lead at EdVenture Park** (Top 5 Campus Lead) — mentored student technical teams from napkin sketches to deployed prototypes.
 - 🏆 **Winner**, Internal Round, **Smart India Hackathon**.
 - ⚡ **Core Focus:** Building high-reliability full-stack applications, deep-module architectures, database-level business logic (ACID stored procedures, RLS), and RAG AI systems.
 
@@ -51,22 +51,28 @@ $ cat toolchain.json | jq .
 
 #### 📈 Nexus Demand Intelligence & Deadstock Pipeline
 *Deterministic recency-based inventory aging engine isolating ₹19.95L in dormant capital across 3,075 SKUs.*
-- Diagnosed ML model collapse on sparse, zero-inflated demand data (98% zero-variance intervals).
-- Built a SAP/NetSuite-style recency aging pipeline in **Python** & **PostgreSQL**, exporting SKU-level capital risk audits to unblock sourcing bottlenecks.
+- Diagnosed and resolved ML model collapse on sparse, zero-inflated retail demand data (98% zero-variance intervals).
+- Engineered a SAP/NetSuite-style recency aging pipeline in **Python** & **PostgreSQL**, exporting SKU-level capital risk audits to unblock sourcing bottlenecks.
 
-#### 🔐 TrustEDU (EdTech Credential Verification)
-*Decentralized verification platform for educational certificates and student credentials.*
-- Built with **Next.js**, **Firebase**, and **Tailwind CSS**.
-- Implemented cryptographic signature verification and role-based credential issuance.
+#### 🎬 Kinetic Motion Video Generation Engine
+*Programmatic vertical video generator compiling declarative JSON specs into 1080×1920 motion-graphics reels.*
+- Built with **Remotion (React + TypeScript)**, **Python DSP**, **Faster-Whisper**, and **Edge-TTS**.
+- Zero-GPU architecture executing local CPU speech synthesis, word-level subtitle alignment, and ambient audio ducking.
 
-#### ⚙️ Bug Buster (Real-Time Competitive Coding Arena)
-*Live multi-player competitive programming engine with interactive rules and leaderboards.*
-- Built with **Node.js**, **Express.js**, **MongoDB**, and **Socket.io**.
-- Features low-latency event broadcasting for live leaderboards and game-state rule enforcement.
+#### 🧠 DocuMind — AI Personal Memory Assistant
+*Open-source RAG knowledge assistant indexing multi-format documents with Google Gemini embeddings and pgvector.*
+- Implemented Reciprocal Rank Fusion (RRF) hybrid search combining BM25 lexical ranking with vector cosine similarity.
+- Built with **Python**, **FastAPI**, **LlamaIndex**, **PostgreSQL (pgvector)**, and **Docker** deployed on **Railway**.
 
-#### 🏫 Campus Admission & Inquiry Portal
-*Multi-tenant mobile communication system for student inquiries and counselor routing.*
-- Built with **Flutter**, **Firebase**, and **Cloud Firestore**.
+#### 🔬 Lab Master (Multi-Tenant Optical Billing)
+*Cloud prescription billing and optical lab management SaaS with tenant isolation.*
+- Multi-vendor lens pricing matrix supporting power, index, coating, and automated GST tax calculations.
+- Enforced database-level multi-tenancy via **Supabase PostgreSQL** Row Level Security (RLS) policies.
+
+#### ⚡ Lens BillPro (Offline-Capable Retail POS)
+*High-speed retail billing application cutting counter checkout time from 15 minutes to under 1 minute.*
+- Built with **Next.js**, **React**, **IndexedDB (idb-keyval)**, and **TanStack Query** for offline resilience during network outages.
+- One-click 80mm thermal receipt printing and automated daily CSV sales reconciliation.
 
 ---
 
